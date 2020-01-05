@@ -15,3 +15,5 @@ Der Terminalemulator mit den Röhreneffekten ist dieser:
 https://github.com/Swordfish90/cool-retro-term  
 Darin habe ich das Script laufen lassen.  
 Vermutlich gibts den CRT nicht für Windows. Aber schau dir Linux doch mal an :-D
+
+Nutzt euer Wissen von heute und guckt mit der Help-Funktion, was cowsay sonst noch schönes kann. Oder schau in die Doku! :-P
